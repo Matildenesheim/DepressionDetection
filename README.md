@@ -8,7 +8,7 @@ A Naïve Bayes model achieved a F1-score of 0.73 and a sensitivity and specific
 A SVM model achieved a F1-score of 0.62, and a sensitivity of only 0.50 and a specificity of 0.90.
 Additionally, the Naïve Bayes and SVM achieved fairly high positive predictive values of 0.80 and 0.83. However, the Naïve Bayes classifier did present a higher negative predictive value of 0.71 than the SVM of just 0.64. 
 
-<div align="center"><img src="img/dep.png" width="220px"/></div>
+<div align="center"><img src="img/dep.png" width="450px"/></div>
  
 The file called "Depression" include feature extraction, cross-validation, models, plots & classifiers. The file called "TopicModelling" include topic modelling. 
 

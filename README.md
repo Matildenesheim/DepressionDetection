@@ -16,7 +16,7 @@ Additionally, the Naïve Bayes and SVM achieved fairly high positive predictive
 The file called "Depression" include feature extraction, cross-validation, models, plots & classifiers. The file called "TopicModelling" include topic modelling. 
 
 ### ✉️ Contact
-For further information feel free to connect with one of the authors [matildenesheim@hotmail.com](mailto:matildenesheim@hotmail.com?subject=[GitHub]%20TIBA) or on LinkedIn:
+For further information feel free to connect with one of the authors Matilde Nesheim on [matildenesheim@hotmail.com](mailto:matildenesheim@hotmail.com?subject=[GitHub]%20depression-nlp) or on LinkedIn:
 
 [<img align="left" alt="matildenesheim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

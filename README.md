@@ -4,7 +4,7 @@
 
 An examination of the linguistic patterns of Danish-speaking individuals suffering from Major Depressive Disorder, by comparing with healthy controls, in the context of an autobiographical interview. 
 
-**Results**
+**Results**<br>
 We found, how individuals suffering from MDD used significantly more pronouns compared to controls, a significant difference in average sentiment scores between the groups, and a tendency of depressed using shorter words. Topic modeling did not reveal any significant information. The topics did not reveal any eloquent structure of the data. One reason could be the framework given in the experiment. 
 
 A Naïve Bayes model achieved a F1-score of 0.73 and a sensitivity and specificity score of 0.67 and 0.83 respectively, when detecting depression based on linguistic features.

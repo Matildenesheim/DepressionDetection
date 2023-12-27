@@ -2,6 +2,8 @@
 ### Depression Detection through Various Linguistic Features in Danish
 [![describtor - e.g. RStudio version](https://img.shields.io/badge/RStudio%20Version->=3.6.1-green)](www.desired_reference.com)
 
+Developed in 2019.
+
 An examination of the linguistic patterns of Danish-speaking individuals suffering from Major Depressive Disorder, by comparing with healthy controls, in the context of an autobiographical interview. 
 
 **Results**<br>
